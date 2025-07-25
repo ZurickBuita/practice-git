@@ -8,9 +8,12 @@
 	<body>
 		<!-- Feature/Header -->
 		<header>Add header here...</header>
+		<!-- Feature/Aside -->
 		<aside></aside>
+		<!-- Feature/Main -->
 		<main></main>
-		<footer></footer>
+		<!-- Feature/Footer -->
+		<footer>Add footer here...</footer>
 	</body>
 </html>
 
