@@ -6,7 +6,11 @@
 		<title>practice-git</title>
 	</head>
 	<body>
-		<div>hello world!</div>
+		<!-- Feature/Header -->
+		<header>Add header here...</header>
+		<aside></aside>
+		<main></main>
+		<footer></footer>
 	</body>
 </html>
 
