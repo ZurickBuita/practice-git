@@ -9,9 +9,11 @@
 		<!-- Feature/Header -->
 		<header>Add header here...</header>
 		<!-- Feature/Aside -->
-		<aside></aside>
+		<aside>Add aside here...</aside>
 		<!-- Feature/Main -->
-		<main></main>
+		<main>
+			<p>Add main here...</p>
+		</main>
 		<!-- Feature/Footer -->
 		<footer>Add footer here...</footer>
 	</body>
