@@ -13,6 +13,7 @@
 		<!-- Feature/Main -->
 		<main>
 			<p>Add main here...</p>
+			<p>sample text</p>
 		</main>
 		<!-- Feature/Footer -->
 		<footer>Add footer here...</footer>
