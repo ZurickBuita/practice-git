@@ -7,7 +7,26 @@
 	</head>
 	<body>
 		<!-- Feature/Header -->
-		<header>Add header here...</header>
+		<header>
+			<nav>
+				<div>
+					<a href="#">Brand</a>
+				</div>
+				<div>
+					<form>
+						<input type="text" name="search" placeholder="Search..." required>
+					</form>
+				</div>
+				<div>
+					<ul>
+						<li>Home</li>
+						<li>About</li>
+						<li>Features</li>
+						<li>Contact</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
 		<!-- Feature/Aside -->
 		<aside>Add aside here...</aside>
 		<!-- Feature/Main -->
