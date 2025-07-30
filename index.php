@@ -31,8 +31,8 @@
 		<aside>Add aside here...</aside>
 		<!-- Feature/Main -->
 		<main>
-			<p>Add main here...</p>
-			<p>sample text</p>
+			<p>This is a paragraph 1</p>
+			<p>This is a paragraph 2</p>
 		</main>
 		<!-- Feature/Footer -->
 		<footer>Add footer here...</footer>
